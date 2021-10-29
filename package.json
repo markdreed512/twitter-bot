@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/markdreed512/twitter-bot/issues"
   },
-  "homepage": "https://github.com/markdreed512/twitter-bot#readme"
+  "homepage": "https://github.com/markdreed512/twitter-bot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
